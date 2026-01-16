@@ -60,7 +60,7 @@ const AboutMe = () => {
         {/* RIGHT — VISUAL BLOCK (clean & minimal like your friend) */}
         <div className="hidden md:flex justify-center">
           <div className="w-[320px] h-[420px] rounded-2xl bg-gradient-to-br from-[#1e1e1e] to-[#0f0f0f] border border-white/10">
-            <img src="../public/images/ptkavatar.png" alt="" />
+            <img src="/images/ptkavatar.png" alt="" />
           </div>
         </div>
 

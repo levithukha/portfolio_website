@@ -48,8 +48,8 @@ function Hero() {
             </div>
 
             <p className="text-sm md:text-base text-white/80 max-w-xl">
-              Hello, I am Phyo, a second year CS student planning to transfer to
-              a four year university.
+              Hello, I am Phyo Thu Kha, a second year CS student from Ohlone
+              College planning to transfer to a four year university.
             </p>
 
             {/* Button wrapper controls button size */}
